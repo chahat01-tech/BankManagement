@@ -35,6 +35,7 @@ The project follows these steps:
 9. Exit: The program terminates when the user selects the exit option.
 
 <img width="1920" height="1080" alt="Screenshot 2026-11-03 143040" src="https://github.com/user-attachments/assets/0637dafe-3896-455f-a887-cf07ec9607a5" />
-<img width="1920" height="1080" alt="Screenshot 2026-11-03 143059" src="https://github.com/user-attachments/assets/b7bd695b-61ab-46f1-8b22-b82a94c237c7" />
+<img width="1920" height="1080" alt="Screenshot 2026-11-04 131739" src="https://github.com/user-attachments/assets/0e86144d-b9c6-42ce-b9fb-085f9b554551" />
+<img width="1920" height="1080" alt="Screenshot 2026-11-04 131847" src="https://github.com/user-attachments/assets/a838ac70-4001-4185-972d-37aea76dabb6" />
 
-<img width="1920" height="1080" alt="Screenshot 2026-11-03 143208" src="https://github.com/user-attachments/assets/02c80aee-42bf-457c-8ef2-40f5b232885e" />
+
